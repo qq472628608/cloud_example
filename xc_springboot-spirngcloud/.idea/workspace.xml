@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:xc-framework-model" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:xc-framework-parent" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:xc-framework-utils" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:xc-service-manage-cms" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:xc-service-manage-course" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:xc-service-search" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f5d106e-a2ed-4b44-a30b-dd400784da51" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1weOODok7v7r6dgJ9A3RTqQNjlR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.ManageCmsClientApplication">
+    <configuration name="FileSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-base-filesystem" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.filesystem.FileSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-govern-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.govern.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GovernCenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-govern-center" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.govern.center.GovernCenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearningApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-learning" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.learning.LearningApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_cms.ManageCmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCmsClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc‐service‐manage‐cms‐client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_cms_client.ManageCmsClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageCourseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-course" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_course.ManageCourseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageMediaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-media" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_media.ManageMediaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageMediaProcessorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-media-processor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.manage_media_process.ManageMediaProcessorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-manage-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.order.ManageOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.search.SearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UcenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-ucenter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.ucenter.UcenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UcenterAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xc-service-ucenter-auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xuecheng.auth.UcenterAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f5d106e-a2ed-4b44-a30b-dd400784da51" name="Default Changelist" comment="" />
+      <created>1628815553832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628815553832</updated>
+      <workItem from="1628815564616" duration="4093000" />
+      <workItem from="1629074564330" duration="356000" />
+      <workItem from="1629257082723" duration="1123000" />
+      <workItem from="1630284466936" duration="1239000" />
+      <workItem from="1632127269804" duration="739000" />
+      <workItem from="1632884190780" duration="15996000" />
+      <workItem from="1632979678472" duration="3935000" />
+      <workItem from="1635125089821" duration="1668000" />
+      <workItem from="1638843890563" duration="28328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="621" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1638942863953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="621" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1638942863953" />
+    <state x="184" y="86" key="DiffContextDialog" timestamp="1638931205246">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1638931205246" />
+    <state x="516" y="222" key="RollbackChangesDialog" timestamp="1639045249892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="516" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1639045249892" />
+    <state x="490" y="321" width="764" height="634" key="find.popup" timestamp="1639029875453">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="321" width="764" height="634" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1639029875453" />
+    <state x="612" y="247" width="672" height="678" key="search.everywhere.popup" timestamp="1638941236197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="612" y="247" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1638941236197" />
+  </component>
+</project>
